@@ -7,8 +7,9 @@ are located in the lib folder. Additionally, some files have been included that 
 ## How to Run
 
 ### Command-Line Version
-1.  *make*
-2.  *./bin/Scrabble config/config.txt*
+1.  **make**
+2.  **./bin/Scrabble config/config.txt**
+
 Additional notes: make clean will remove all files from the bin folder. The program compiles with no warnings, and has
 no valgrind errors/memory leaks.
 
