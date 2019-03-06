@@ -7,7 +7,7 @@ are located in the lib folder. Additionally, some files have been included that 
 ## How to Run
 
 ### Command-Line Version
-The program can be compiled by running make; make clean will
+The program can be compiled by running <i>make</i>; make clean will
 remove all files from the bin folder. The program can be executed by running
 ./bin/Scrabble config/config.txt . This program compiles with no warnings, and has
 no valgrind errors/memory leaks.
