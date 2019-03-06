@@ -1,12 +1,17 @@
-### Description
-This program has several different classes, Bag, Board, Dictionary, Player,
-Square, and UserInterface to divide up the work involved with making Scrabble.
+## Description
+This program is full-fledged Scrabble game with multiple different classes like Bag, Board, Dictionary, Player,
+Square, and UserInterface to divide up the work involved.
 All of the .cpp files are located in the src folder, and all of the .h files
-are located in the lib folder. The out files/executable is located in the bin
-folder. 
+are located in the lib folder. Additionally, some files have been included that were involved with making a GUI for the game in Qt, and images will be shown below.
 
-### How to Run
-The program can be compiled simply by typing make; make clean will
-remove all files from the bin folder. The program can be executed by running
-./bin/Scrabble config.txt . This program compiles with no warnings, and has
+## How to Run
+
+### Command-Line Version
+1.  **make**
+2.  **./bin/Scrabble config/config.txt**
+
+Additional notes: make clean will remove all files from the bin folder. The program compiles with no warnings, and has
 no valgrind errors/memory leaks.
+
+### GUI Version
+All of the files necessary for making the GUI for Scrabble in Qt have been included, however, the game will not compile unless Qt is installed on your machine. Unfortunately, Qt is quite time-intensive to set up, so for now I have simply included screenshots of what the GUI looks like.
