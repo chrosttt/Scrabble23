@@ -1,10 +1,10 @@
-### Description
+# Description
 This program is full-fledged Scrabble game with multiple different classes like Bag, Board, Dictionary, Player,
 Square, and UserInterface to divide up the work involved.
 All of the .cpp files are located in the src folder, and all of the .h files
 are located in the lib folder. Additionally, some files have been included that were involved with making a GUI for the game in Qt, and images will be shown below.
 
-### How to Run
+# How to Run
 
 ## Command-Line Version
 The program can be compiled by running make; make clean will
