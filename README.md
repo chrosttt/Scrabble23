@@ -8,5 +8,5 @@ folder.
 ### How to Run
 The program can be compiled simply by typing make; make clean will
 remove all files from the bin folder. The program can be executed by running
-./bin/Scrabble <"filename"> . This program compiles with no warnings, and has
+./bin/Scrabble config.txt . This program compiles with no warnings, and has
 no valgrind errors/memory leaks.
