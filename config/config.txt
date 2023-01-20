@@ -1,0 +1,4 @@
+NUMBER: 7
+BOARD: config/standard-board.txt
+TILES: config/english-tile-bag.txt
+DICTIONARY: config/english-dictionary.txt
